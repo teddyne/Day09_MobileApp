@@ -1,9 +1,8 @@
-# BookStore — Buổi 9 (SDK 58, ĐÃ LÀM XONG)
+# BookStore — Buổi 9
 
 Bản hoàn chỉnh theo bài thực hành Buổi 9: Thanh toán, Đơn hàng & Thông báo,
 đã nâng lên Expo SDK 58. Không còn khung cam TODO trên màn hình;
-`grep -rn "TODO BT9" src` không còn kết quả. Bản này KHÔNG kèm file TraLoi.md
-theo yêu cầu (câu hỏi bổ sung không nằm trong project này).
+`grep -rn "TODO BT9" src` không còn kết quả. 
 
 ## Chạy
 ```bash
